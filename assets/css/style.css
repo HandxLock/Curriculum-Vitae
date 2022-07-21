@@ -1,0 +1,27 @@
+.navbar-brand img{
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-derecha{
+    text-align: right;
+}
+
+
+.carousel-inner img{
+    width: 600px;
+    height: 600px;
+}
+.carrusel{
+padding: 5% 20% 5% 20%;
+}
+
+.tarjetas
+{
+    padding-right: 10%;
+    padding-left: 10%;
+    
+}
+.tarjetas img{
+    height: 400px;
+}
