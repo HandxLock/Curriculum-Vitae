@@ -25,3 +25,12 @@ padding: 5% 20% 5% 20%;
 .tarjetas img{
     height: 400px;
 }
+
+.main{
+    background-color: rgb(32, 36, 33);
+}
+.footer{
+    text-align: center;
+    background-color:#95d6ab ;
+    height: 30px;
+}
